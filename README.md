@@ -54,6 +54,7 @@ If you are looking for not only remakes have a look at:
 - [ScummVM](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 - [twin-e](https://github.com/LBALab/twin-e) - TwinEngine: a Little Big Adventure engine.
 - [timeco](https://github.com/LBALab/timeco) - Time Commando Reimplementation
+- [v64tng](https://github.com/mattseabrook/v64tng) - Game Engine re-creation of The 7th Guest
 
 ## Arcade
 - [AcidDrop](https://github.com/lostjared/AcidDrop) - Remake of classic Atari 2600 game "Acid Drop".
@@ -257,6 +258,7 @@ If you are looking for not only remakes have a look at:
 - [Open76](https://github.com/rob518183/Open76) - Interstate '76 engine reimplementation
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [OutRun](https://github.com/ZgzInfinity/OutRun) - A new version of the game Out Run of 1986 for PC using SFML and C++
+- [Quarantine](https://github.com/mattseabrook/Quarantine) - Game Engine re-creation of Quarantine by Imagexcel
 - [tube64](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
 - [SpagettiKart](https://github.com/HarbourMasters/SpaghettiKart) - Reimplementation of Mario Kart 64 for PC.
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
